@@ -4,10 +4,10 @@
     "MANUFACTURER": "Google",
     "BRAND": "google",
     "MODEL": "Pixel 9",
-    "ID": "BP31.250523.006",
+    "ID": "BP31.250523.010",
     "VERSION.RELEASE": "16",
-    "VERSION.INCREMENTAL": "13607978",
-    "FINGERPRINT": "google/tokay_beta/tokay:16/BP31.250523.006/13607978:user/release-keys",
-    "VERSION.SECURITY_PATCH": "2025-05-05",
+    "VERSION.INCREMENTAL": "13667654",
+    "FINGERPRINT": "google/tokay_beta/tokay:16/BP31.250523.010/13667654:user/release-keys",
+    "VERSION.SECURITY_PATCH": "2025-06-05",
     "VERSION.DEVICE_INITIAL_SDK_INT": "34"
 }
